@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-price-app/static/css/main.b3cbd7a6.css",
+    "main.js": "/crypto-price-app/static/js/main.10c7184a.js",
+    "static/js/787.6f9a198b.chunk.js": "/crypto-price-app/static/js/787.6f9a198b.chunk.js",
+    "index.html": "/crypto-price-app/index.html",
+    "main.b3cbd7a6.css.map": "/crypto-price-app/static/css/main.b3cbd7a6.css.map",
+    "main.10c7184a.js.map": "/crypto-price-app/static/js/main.10c7184a.js.map",
+    "787.6f9a198b.chunk.js.map": "/crypto-price-app/static/js/787.6f9a198b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cbd7a6.css",
+    "static/js/main.10c7184a.js"
+  ]
+}
